@@ -1,0 +1,8 @@
+
+ git clone https://git@github.com/opscode/chef-repo.git ci-chef-repo
+
+ cd ci-chef-repo
+
+ rm .git
+
+
