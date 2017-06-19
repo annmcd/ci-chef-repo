@@ -1,0 +1,6 @@
+{
+  "id": "my-artefact-3",
+  "url": "http://mynexus",
+  "chef_type": "data_bag_item",
+  "data_bag": "amd_pos_db"
+}
